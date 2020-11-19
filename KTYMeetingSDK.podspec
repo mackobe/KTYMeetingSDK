@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name = "KTMeetSdk"
-  s.version = "0.5.0"
+  s.name = "KTYMeetingSDK"
+  s.version = "0.6.0"
   s.summary = "A short description of KTMeetSdk."
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"BIBiBI12"=>"qingxiang.zhu@ketianyun.com"}
